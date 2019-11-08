@@ -6,7 +6,11 @@ body{
   width:750px;
   padding:0 auto;
   text-align: center;
+  background-color: white;
+  margin: auto;
+  height:100%;
 }
 .main-img{
   width:750px ;
+  height:100%;
 }
